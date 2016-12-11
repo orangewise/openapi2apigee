@@ -46,7 +46,7 @@
     "async": "^2.1.4",
     "inquirer": "^1.2.3",
     "mocha": "^3.2.0",
-    "openapi-utils-param-to-schema": "0.0.8",
+    "openapi-utils-param-to-schema": "0.0.9",
     "openapi-utils-path-for-uri": "0.0.6",
     "openapi-utils-schema-from-api": "0.0.5",
     "policify": "0.0.12",
