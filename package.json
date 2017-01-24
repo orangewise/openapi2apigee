@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "async": "^2.1.4",
-    "inquirer": "^1.2.3",
+    "inquirer": "^3.0.1",
     "mocha": "^3.2.0",
     "openapi-utils-param-to-schema": "0.0.9",
     "openapi-utils-path-for-uri": "0.0.6",
